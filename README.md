@@ -1,4 +1,4 @@
-# AndroidLibraryCompilation
+# Android Libraries Compilation by Applex
 
 ## Video Operations
  * https://github.com/SimformSolutionsPvtLtd/SSffmpegVideoOperation.git
